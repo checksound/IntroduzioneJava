@@ -2,7 +2,7 @@ package it.isisgallarate.test;
 
 import it.isisgallarate.equals.Vino;
 
-public class TestVino {
+public class TestEqualsVino {
 	
 	public static void main(String[] args) {
 		Vino vino1 = new Vino("Barbera", 2010, 20);
