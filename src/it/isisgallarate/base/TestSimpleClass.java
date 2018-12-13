@@ -16,9 +16,3 @@ public class TestSimpleClass {
 	}
 }
 
-class DataOnly {
-	int i;
-	double d;
-	boolean b;
-}
-
