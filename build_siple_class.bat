@@ -1,0 +1,1 @@
+javac -d target src\it\isisgallarate\base\TestSimpleClass.java
